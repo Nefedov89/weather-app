@@ -1,3 +1,5 @@
+[![weather-app-check](https://github.com/Nefedov89/weather-app/actions/workflows/weather-app-check.yml/badge.svg)](https://github.com/Nefedov89/weather-app/actions/workflows/weather-app-check.yml)
+
 #### 🤖 Instructions:
 1. Call the console command:
     ```
