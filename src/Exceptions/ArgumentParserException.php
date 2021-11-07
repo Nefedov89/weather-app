@@ -8,7 +8,7 @@ use Throwable;
 
 class ArgumentParserException extends AppException
 {
-    public const DEFAULT_ERROR_MESSAGE = "Argument city \'-c\' or \'--city\' with its value is required";
+    public const DEFAULT_ERROR_MESSAGE = 'Argument city \'-c\' or \'--city\' with its value is required';
 
     /**
      * @param string $message
