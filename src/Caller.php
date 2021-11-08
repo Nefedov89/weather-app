@@ -41,7 +41,7 @@ class Caller
         // It should be called before execute method.
         $this->httpClient = new CurlHttpClient();
 
-        $this->configs = include './config/app.php';
+        $this->configs = require './config/app.php';
     }
 
     /**
